@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1067E27-217C-46D4-83DE-13182D658DC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Creco</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8A0799619FEBF3E964ABA0348ACB0909FCA701D</key>
+		<string>http://git.bravesoft.co.jp/bravesoft/creco_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Creco.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8A0799619FEBF3E964ABA0348ACB0909FCA701D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://git.bravesoft.co.jp/bravesoft/creco_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8A0799619FEBF3E964ABA0348ACB0909FCA701D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8A0799619FEBF3E964ABA0348ACB0909FCA701D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>creco_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

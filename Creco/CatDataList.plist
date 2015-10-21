@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Money</key>
+	<dict>
+		<key>cat_8</key>
+		<string>もう今月%@超えてるよ～っ！
+すこし注意して使ってね</string>
+	</dict>
+	<key>PDF</key>
+	<dict>
+		<key>cat_7</key>
+		<string>今月の請求額が決まったよ〜
+メニューから請求書をチェック！</string>
+	</dict>
+	<key>Message</key>
+	<dict>
+		<key>cat_7</key>
+		<string>お知らせが更新されたよ～
+たまにはチェックしてね～　</string>
+	</dict>
+	<key>Update</key>
+	<dict>
+		<key>cat_3</key>
+		<string>最近、更新してないよ～
+カード利用履歴をチェックしよう</string>
+	</dict>
+	<key>Other</key>
+	<array>
+		<dict>
+			<key>cat_4</key>
+			<string>賢くカードを利用して
+粋なマネーライフを楽しもう</string>
+		</dict>
+		<dict>
+			<key>cat_5</key>
+			<string>カレンダーを写真いっぱいにしよう
+お買い物と一緒に思い出も記録しよう</string>
+		</dict>
+		<dict>
+			<key>cat_2</key>
+			<string>CRECOと一緒にいつでも
+おしゃれなマネーライフ</string>
+		</dict>
+		<dict>
+			<key>cat_6</key>
+			<string>はちみつとパンケーキが好き♪
+カード管理も好き～</string>
+		</dict>
+		<dict>
+			<key>cat_1</key>
+			<string>メモは有効的に活用！
+色分けしてカードを使い分けよう</string>
+		</dict>
+		<dict>
+			<key>cat_1</key>
+			<string>CRECOでカンタン！
+カードでお金の管理をしよう～</string>
+		</dict>
+		<dict>
+			<key>cat_2</key>
+			<string>あなたの代わりに　　　　　　　　　
+カード利用明細を集めてくるよ～</string>
+		</dict>
+	</array>
+</dict>
+</plist>
